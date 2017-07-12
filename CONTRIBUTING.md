@@ -1,6 +1,6 @@
 # content-service (Content as a Service Application)
 
-# Contributing to abhiyaantrikee/content-service
+# Contributing to yantrashala/content-service
 
 We welcome contributions, but request you follow these guidelines.
  - [Raising issues](#raising-issues)
@@ -30,13 +30,13 @@ At a minimum, please include:
 
 ## Feature requests
 
-For feature requests, please raise them on the [issues page](https://github.com/abhiyaantrikee/content-service/issues) with label "enhancement".
+For feature requests, please raise them on the [issues page](https://github.com/yantrashala/content-service/issues) with label "enhancement".
 
 ## Pull-Requests
 
 If you want to raise a pull-request with a new feature, or a refactoring
 of existing code, it may well get rejected if you haven't discussed it on
-the [issues page](https://github.com/abhiyaantrikee/content-service/issues) first.
+the [issues page](https://github.com/yantrashala/content-service/issues) first.
 
 ### Coding standards
 
@@ -56,7 +56,7 @@ code base. Some basic rules include:
 
  This Contributing article is adapted from node-red, version 0.16.2, available at https://github.com/node-red/node-red/blob/master/CODE_OF_CONDUCT.md
 
-# abhiyaantrikee - Contributor Covenant Code of Conduct
+# yantrashala - Contributor Covenant Code of Conduct
 
 ## Our Pledge
 

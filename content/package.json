@@ -39,7 +39,7 @@
   },
   "repository": {
     "type": "GIT",
-    "url": "https://github.com/abhiyaantrikee/content-service"
+    "url": "https://github.com/yantrashala/content-service"
   },
   "license": "MIT License",
   "description": "APIs for Content as a Service"
